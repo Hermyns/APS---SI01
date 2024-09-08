@@ -5,4 +5,3 @@
 - 🌱 Atualmente estou aprendendo a linguagem HTML
 - 🤔 Estou procurando ajuda com basicamente todo o universo da programação
 - 📫 Como entrar em contato comigo: @herm.yns
--->
